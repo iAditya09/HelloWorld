@@ -1,0 +1,5 @@
+git clone url //Download repository
+git add file-name //git tracks
+git commit //local commits
+git push local //commits to git hub
+
