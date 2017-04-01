@@ -3,3 +3,4 @@ git add file-name //git tracks
 git commit //local commits
 git push local //commits to git hub
 git status //gives status
+git init //when creating a new folder you wanna commit to git but not loned
