@@ -3,4 +3,9 @@ git add file-name //git tracks
 git commit //local commits
 git push local //commits to git hub
 git status //gives status
-git init //when creating a new folder you wanna commit to git but not loned
+git init //when creating a new folder you wanna commit to git but not Cloned
+git add -h //help for add
+git log //gives list of added commits
+git show "hash" //shows all the changes commited
+git remote add "origin" "git-url" //adds origin 
+git push origin master //master branch origin is name of url
